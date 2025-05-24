@@ -1,0 +1,7 @@
+gradio
+PyMuPDF
+sentence-transformers
+scikit-learn
+numpy
+langchain
+transformers
